@@ -35,7 +35,7 @@
 
   - Market research
 
-    **Prepare slides for the next regular meeting**
+- **Prepare slides for the next regular meeting**
 
     - What are the questions in the last meeting? How to solve? 
     -  What is my research progress in the previous week? 
