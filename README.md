@@ -1,5 +1,6 @@
 # Meeting Memos
 
+<<<<<<< HEAD
 <h2> The first regular meeting on 26th May
   <h3>
     1. Dr.Liu： A more complex mood model is needed for machine learning. Speech act theory is recommended. 
@@ -40,6 +41,8 @@
     -  What is my research progress in the previous week? 
     - What is my plan next week? (provide more solutions)
 
+=======
+>>>>>>> 16e4b4a88b349b5f52e283ffaf56839a00b18127
   
 
   
