@@ -40,6 +40,9 @@
     - What are the questions in the last meeting? How to solve? 
     -  What is my research progress in the previous week? 
     - What is my plan next week? (provide more solutions)
+    
+
+
 
    <h2> The second regular meeting on 03th June
   
