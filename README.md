@@ -51,25 +51,46 @@
   ** 2. Reconside the innovations of this research**
   ** 3. Other specific questions**
        - What kinds of levels are considered?(word level/clause level/essay level)
-       - Will it be possible for annotators to annotate very differently? How to aviod this?
-       - Which dataset is to be used and how large will be the dataset?
+            - Will it be possible for annotators to annotate very differently? How to aviod this?
+            - Which dataset is to be used and how large will be the dataset?
+
+<h2> The second regular meeting on 03th June
+
+ 
+
+1. **The feasibility of tool**
+   - What is the application of this tool? Think of a situation (not limited to academic writing)
+   - Which theory is to be used? (Speech-act theory should have the context of interactions?
+   - How to prove that it is an effective tool for teachers to save their time?
+
+ 
+
+2. **Reconside the innovations of this research**
+
+3. **Other specific questions**
+
+- What kinds of levels are considered?(word level/clause level/essay level)
+
+- Will it be possible for annotators to annotate very differently? How to aviod this?
+
+- Which dataset is to be used and how large will be the dataset?
 
 
 
 =======
 >>>>>>> 16e4b4a88b349b5f52e283ffaf56839a00b18127
-  
 
-  
 
-  
+
+
+
 
   ​    
 
 ​    
 
 
-    
+​    
 
   
 
