@@ -43,7 +43,6 @@
     
 
 
-
    <h2> The second regular meeting on 03th June
   
   ** 1. The feasibility of tool**
